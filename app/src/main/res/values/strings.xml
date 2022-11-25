@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="item_selected_message">selected the item %1$s</string>
+</resources>
